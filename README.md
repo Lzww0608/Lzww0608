@@ -1,5 +1,5 @@
 ## Hi there 👋
-### I'm Lzww, a boy from China.
+### I'm Lzww, a boy with long hair.
 
 ### I am into
 ### Competitve Programming, System Design, LLM.
