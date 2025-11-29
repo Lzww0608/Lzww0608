@@ -5,7 +5,7 @@
 ### Competitve Programming, System Design, LLM.
 
 
-[![Top Langs](https://github-readme-stats-wyd9k5tp8-lzww0608s-projects.vercel.app/api/top-langs/?username=Lzww0608&layout=compact)](https://github.com/Lzww0608/github-readme-stats)
+[![Top Langs](https://github-readme-stats-lzww0608.vercel.app/api/top-langs/?username=Lzww0608&layout=compact)](https://github.com/Lzww0608/github-readme-stats)
 
 
 ### Language I work upon : 🛠
