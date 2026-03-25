@@ -1,8 +1,8 @@
 # Hi there, I'm Lzww 👋
 
-> A boy with long hair coding the future. 🎸
+> A boy with long hair.
 
-I am a passionate developer deeply interested in the intersection of algorithms and systems. My focus is on building efficient, scalable software and exploring the frontiers of AI.
+I am a passionate developer deeply interested in algorithms and systems.
 
 ### 🚀 What I'm into
 * **Competitive Programming:** I love solving complex algorithmic challenges and optimizing for time/space complexity.
