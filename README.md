@@ -10,7 +10,6 @@ I am a passionate developer deeply interested in algorithms and systems.
 * **LLMs (Large Language Models):** I am keen on exploring the frontiers of AI tools and using various types of vibe coding tools.
 
 ### 🛠️ Languages & Tools
-I specialize in systems-level programming:
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
